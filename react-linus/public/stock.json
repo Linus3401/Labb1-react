@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name": "gul blomma",
+        "antal": 5
+    },
+    {
+        "id":2,
+        "name": "röd blomma",
+        "antal": 3
+    },
+    {
+        "id":3,
+        "name": "orange blomma",
+        "antal": 6
+    },
+    {
+        "id":4,
+        "name": "blå blomma",
+        "antal": 9
+    }
+]
